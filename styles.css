@@ -1,0 +1,51 @@
+body {
+  background: rgb(255, 255, 255);
+    color:rgb(255, 255, 255) 
+
+     }
+
+header {
+    border-bottom: solid 1px rgb(0, 0, 0);
+    font-size: 35px;
+    color: rgb(93, 93, 93);
+    margin: 5px;
+    font-family: "New Amsterdam", sans-serif;
+
+}
+
+section {
+    background: rgb(0, 0, 0); 
+    padding: 35px;
+    display: flex;
+}
+
+p {
+    color: whitesmoke;
+    padding-top: 200px;
+    padding-bottom: 5px;
+    font-size: 25px;
+}
+
+div {
+    margin-right: 3%;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 35px;
+}
+
+img{
+height: 250px;
+
+
+}
+    h2{
+   padding-left: 325px;
+    font-family: "family";
+
+}
+
+.video {
+    overflow-y: auto;
+}
